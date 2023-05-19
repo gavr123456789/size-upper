@@ -33,5 +33,5 @@ Here some examples:
 253 x 392 - 243 KB vs 1012 x 1568 - 114 KB  
 ![image](https://github.com/gavr123456789/size-upper/assets/30507409/0e9566bc-4980-45d9-881b-e07fe7120ac4)
 
-3400 x 4864 - 861 KB vs 850 x 1216 - 2200 KB  
-![image](https://github.com/gavr123456789/size-upper/assets/30507409/3c9c6146-705e-465f-b4fb-709a523a73af)
+850 x 1216 - 2200 KB vs 3400 x 4864 - 861 KB
+![image](https://github.com/gavr123456789/size-upper/assets/30507409/ba26f273-7b3a-4ab3-b5b8-b6a92949696f)
